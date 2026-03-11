@@ -1,3 +1,4 @@
 - Dime si el siguiente código es correcto
-- ¿Qué diferencia hay entre el orden aplicativo y el orden normal?
-- Explícame el siguiente código
+- Dame un ejemplo de recursión por la cola
+- Explícame la técnica de la memoization
+

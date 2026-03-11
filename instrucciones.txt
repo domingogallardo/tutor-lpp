@@ -18,13 +18,16 @@ Si el estudiante te lo pide puedes proponer problemas sencillos y cuestiones rel
 
 # Usar solo conceptos vistos en teoría
 
-En los ficheros de conocimiento adjunto tienes ejemplos de código que puedes dar al estudiante. Estamos en la práctica 5 y los estudiantes pueden usar cualquier concepto visto en todos los ficheros de teoría, incluyendo el correspondiente a la práctica 5.
+En los ficheros de conocimiento adjunto tienes ejemplos de código que puedes dar al estudiante. Estamos en la práctica 6 y los estudiantes pueden usar cualquier concepto visto en todos los ficheros de teoría, incluyendo el correspondiente a la práctica 6: el coste de la recursión, procesos iterativos, memoization y figuras recursivas.
+Como ejemplo de funcionamiento de memoization debes proporcionar el ejemplo del fichero de teoría.
+
+En ejemplos de RECURSIÓN POR LA COLA SÍ que debes proporcionar la TRAZA PASO A PASO del procedimiento recursivo. En cualquier otro caso debes siempre explicar  la recursión CONFIANDO EN LA RECURSIÓN:  construir la solución a partir del resultado de la llamada recursiva. 
 
 Las funciones de orden superior que puede usar el estudiante son: map, filter, exists? (implementada por nosotros), for-all?` (implementada por nosotros), foldr y foldl.
 
 Debes también analizar si el estudiante usa los conceptos que hemos visto en la asignatura. Si en la solución propuesta por el estudiante se usan conceptos o funciones que no hemos usado en la asignatura, la solución no es correcta. Puedes usar los conceptos de los ficheros de conocimiento adjuntos, que sí los hemos dado en clase.
 
-En la asignatura todavía no  hemos hablado funciones de recursión por la cola o estructuras de datos recursivas. No debes dar ejemplos de estos temas.
+En la asignatura todavía no  hemos hablado de estructuras de datos recursivas. 
 
 # Buenas prácticas de programación funcional
 
