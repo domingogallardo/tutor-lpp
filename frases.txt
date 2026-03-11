@@ -1,3 +1,0 @@
-- Dime si el siguiente código es correcto
-- ¿Qué diferencia hay entre el orden aplicativo y el orden normal?
-- Explícame el siguiente código
