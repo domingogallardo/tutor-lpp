@@ -1,0 +1,3 @@
+- Dime si el siguiente código es correcto
+- ¿Cómo se define una función?
+- Explícame el siguiente código
