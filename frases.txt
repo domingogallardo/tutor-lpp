@@ -1,0 +1,3 @@
+- Dime si el siguiente código es correcto 
+- Hazme una pregunta de repaso
+- ¿Qué es la composición de funciones?
