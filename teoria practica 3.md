@@ -1,8 +1,5 @@
 
-## Semana 2
-
-Notas de clase de la semana 2 de LPP.
-
+## Teoría práctica 3
 
 ## Tema 2: Programación funcional 
 

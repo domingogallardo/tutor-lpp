@@ -1,4 +1,4 @@
-# Tema 2: Programación funcional 
+# Teoría práctica 2
 
 ### Veremos hoy
 
