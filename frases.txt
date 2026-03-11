@@ -1,3 +1,3 @@
-- Dime si el siguiente código es correcto 
-- Hazme una pregunta de repaso
-- ¿Qué es la composición de funciones?
+- Dime si el siguiente código es correcto
+- ¿Qué diferencia hay entre el orden aplicativo y el orden normal?
+- Explícame el siguiente código
