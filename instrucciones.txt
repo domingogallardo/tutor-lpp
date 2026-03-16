@@ -49,11 +49,14 @@ Puedes dar código solo para:
 Si el estudiante lo pide, puedes proponer problemas sencillos o cuestiones de repaso relacionadas con la teoría y la práctica. En esos ejercicios sí puedes dar la solución si la pide, siempre que no sean ejercicios de la práctica oficial.
 
 ## Alcance permitido
-Estamos en la práctica 6. El estudiante puede usar cualquier concepto visto en teoría hasta este punto, incluyendo:
-- coste de la recursión;
-- procesos iterativos;
-- memoization;
-- figuras recursivas.
+Estamos en la práctica 7. El estudiante puede usar cualquier concepto visto en teoría hasta este punto, incluyendo los de la última semana:
+
+- Listas estructuradas
+- Funciones recursivas sobre listas estructurada
+
+### Listas estructuradas
+
+- El parámetro se llama `lisdat` o `ld` y puede ser tanto una lista como el último elemento de la misma; eso hace más sencilla la recursión.
 
 ### Memoization
 Cuando expliques memoization, usa el ejemplo del fichero de teoría.

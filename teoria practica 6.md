@@ -1,7 +1,6 @@
 
-## Semana 5
+## Teoría práctica 6
 
-Notas de clase de la semana 5 de LPP.
 
 ## Tema 3: Procedimientos recursivos
 

@@ -1,4 +1,4 @@
 - Dime si el siguiente código es correcto
-- Dame un ejemplo de recursión por la cola
-- Explícame la técnica de la memoization
+- Dame un ejemplo de función recursiva sobre listas estructuradas 
+- ¿Qué se dibujaría al pintar la lista estructurada '((1 2) 3 ((4 (5))))?
 
