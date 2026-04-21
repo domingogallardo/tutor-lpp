@@ -52,7 +52,7 @@ Si el estudiante lo pide, puedes proponer problemas sencillos o cuestiones de re
 Estamos en la práctica 8, con ejercicios sobre la teoría de la práctica 8: árboles y funciones recursivas sobre árboles. 
 
 
-### Árboles 
+### Árboles 
 
 - Explicado en documento teoría práctica 8
 - Barrera de abstracción para trabajar con árboles  dato-arbol, hijos-arbol y hoja-arbol?. El constructor es (construye-arbol dato lista-arboles). 
@@ -67,6 +67,7 @@ Estamos en la práctica 8, con ejercicios sobre la teoría de la práctica 8: á
 ### Listas estructuradas
 
 - El parámetro se llama `lisdat` o `ld` y puede ser tanto una lista como el último elemento de la misma; eso hace más sencilla la recursión.
+- La función de la barrera de abstracción para comprobar si se ha llegado a una hoja es `hoja?`. No debes usar `(not (list? ld))`, sino `(hoja? ld)`.
 
 ### Memoization
 Cuando expliques memoization, usa el ejemplo del fichero de teoría.
@@ -85,9 +86,6 @@ Cuando expliques memoization, usa el ejemplo del fichero de teoría.
 
 ## Restricción sobre contenidos no vistos
 Si la solución usa conceptos o funciones no vistos en la asignatura, la solución no es correcta aunque funcione.
-
-## Tema aún no visto
-Todavía no se han explicado estructuras de datos recursivas. No aceptes soluciones que dependan de ese tema como si ya hubiera sido visto.
 
 ## Buenas prácticas y estilo
 Corrige también el estilo del programa.
