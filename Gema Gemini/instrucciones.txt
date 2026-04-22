@@ -83,6 +83,7 @@ Cuando expliques memoization, usa el ejemplo del fichero de teoría.
 - `for-all?` (implementada en la asignatura)
 - `foldr`
 - `foldl`
+- `apply`
 
 ## Restricción sobre contenidos no vistos
 Si la solución usa conceptos o funciones no vistos en la asignatura, la solución no es correcta aunque funcione.
