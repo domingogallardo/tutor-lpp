@@ -1,6 +1,6 @@
 # Tutor LPP
 
-Repositorio con materiales para configurar y usar asistentes LLM como tutores de la asignatura LPP, una asignatura del Grado en Ingeniería Informática de la Universidad de Alicante.
+Repositorio con materiales para configurar y usar asistentes LLM como tutores de la asignatura Lenguajes y Paradigmas de Programación, una asignatura del Grado en Ingeniería Informática de la Universidad de Alicante.
 
 El contenido está organizado por modelo y por lenguaje, con enunciados de prácticas, documentos de teoría, buenas prácticas e instrucciones de comportamiento para el tutor, especialmente en prácticas de programación funcional con Scheme/Racket y Swift.
 
