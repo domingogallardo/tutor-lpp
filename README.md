@@ -1,8 +1,15 @@
 # Tutor LPP
 
-Repositorio con materiales para configurar y usar asistentes LLM como tutores de la asignatura LPP, especialmente en prácticas de programación funcional con Scheme/Racket y Swift.
+Repositorio con materiales para configurar y usar asistentes LLM como tutores de la asignatura LPP, una asignatura del Grado en Ingeniería Informática de la Universidad de Alicante.
 
-El contenido está organizado por modelo y por lenguaje, con enunciados de prácticas, documentos de teoría, buenas prácticas e instrucciones de comportamiento para el tutor.
+El contenido está organizado por modelo y por lenguaje, con enunciados de prácticas, documentos de teoría, buenas prácticas e instrucciones de comportamiento para el tutor, especialmente en prácticas de programación funcional con Scheme/Racket y Swift.
+
+## Materiales docentes de LPP
+
+Los materiales docentes completos de la asignatura están disponibles en:
+
+- [Repositorio `apuntes-lpp`](https://github.com/domingogallardo/apuntes-lpp)
+- [Web de apuntes de LPP](https://domingogallardo.github.io/apuntes-lpp/)
 
 ## Estructura
 
